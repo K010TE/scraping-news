@@ -1,5 +1,5 @@
 
-# Coleta de Notícias do G1 sobre Inteligência Artificial (2019–2025)
+# Coleta de Notícias sobre Inteligência Artificial (2019–2025)
 
 Este script realiza a busca, extração e organização de notícias do portal **G1** relacionadas aos termos **"Inteligência Artificial"**, **"IA"** e **"Chat GPT"**, no período de **2019 até 2025** (limitado ao ano atual).
 
